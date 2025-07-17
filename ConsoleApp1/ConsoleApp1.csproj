@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\AddService.cs" />
+    <Compile Include="Service\MainTest.cs" />
     <Compile Include="Service\TestService.cs" />
   </ItemGroup>
   <ItemGroup>
