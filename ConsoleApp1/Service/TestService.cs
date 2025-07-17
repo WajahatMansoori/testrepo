@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.Service
 {
-    class Program
+    public class TestService
     {
-        static void Main(string[] args)
+        public void TestCase()
         {
+            Console.WriteLine("Test Case 1");
         }
     }
 }
